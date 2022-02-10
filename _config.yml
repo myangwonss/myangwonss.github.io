@@ -1,20 +1,20 @@
 # --- Required options --- #
 
 # [수정필요] 웹 페이지 이름
-title: Konkuk Univ CCC
+title: 해양자원을 활용하여 새로운 가치를 더한 바디 케어 제품을 제작하는 브랜드
 
 # [수정필요] 간단한 사이트 설명
-description: Konkuc Univercity Campus Crusade for Crist
+description: TOWBUS
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: KUCCC
+author: MYANGWONSS
 
 # --- List of links in the navigation bar --- #
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 Post 라는 항목을 네비게이션 바에 추가하고 싶은 경우, post.md 파일 생성 후 ETRI: "post" 라고 지정.
 # 세부 항목을 추가하고 싶으면 - 를 이용하여 하위 구조를 추가할 수 있음.
 navbar-links:
-  GitHub: "https://github.com/konkuk-univ-ccc"
+  GitHub: "https://github.com/myangwonss"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -24,7 +24,7 @@ navbar-links:
 # --- Logo --- #
 
 # [수정필요] 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/kuccc-logo.jpeg"
+avatar: "/assets/img/h.jpeg"
 
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
@@ -52,7 +52,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ccc_konkuk
+  instagram: myang_wonss
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -212,7 +212,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
